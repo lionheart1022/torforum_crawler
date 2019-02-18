@@ -1,0 +1,3 @@
+*.pyc
+.idea/
+scrapyprj/settings.py
