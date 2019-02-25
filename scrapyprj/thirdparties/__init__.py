@@ -1,0 +1,1 @@
+import deathbycaptcha.deathbycaptcha as deathbycaptcha
